@@ -1,4 +1,4 @@
-title: goal app delete
+lagi title: goal app delete
 ---
 ## goal app delete
 
